@@ -44,7 +44,6 @@ CCTV3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.
 CCTV4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5+体育赛事,http://39.134.66.66/PLTV/88888888/224/3221225507/1706507446-1-1699542638.hls.ts
-
 CCTV6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
@@ -59,6 +58,7 @@ CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100
 CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 📲地方卫视,#genre#
+
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 上海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -339,13 +339,6 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 凤凰资讯,http://113.117.74.129:8081/hls/36/index.m3u8
 凤凰中文,http://113.117.74.129:8081/hls/37/index.m3u8
 凤凰香港,http://113.117.74.129:8081/hls/38/index.m3u8
-
-
-🎥CHC频道,#genre#,
-家庭影院,http://113.15.185.50:8181/tsfile/live/1018_1.m3u8
-动作电影,http://113.15.185.50:8181/tsfile/live/1019_1.m3u8
-高清电影,http://113.15.185.50:8181/tsfile/live/1020_1.m3u8
-
 
 💽黑莓频道,#genre#
 
