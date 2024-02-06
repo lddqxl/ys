@@ -91,13 +91,27 @@
       "ext": "https://d.kstore.space/download/6509/lib/m1905.py"
     },
     {
-      "key": "csp_短剧网",
-      "name": "短剧网源",
+      "key": "csp_qiumi",
+      "name": "Jrs球迷源",
       "type": 3,
-      "api": "csp_Duanjuw",
+      "api": "https://d.kstore.space/download/6509/lib3/apiv515drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6509/lib3/jrk.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "短剧",
+      "name": "短剧资源",
+      "type": 3,
+      "api": "csp_App",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0,
+      "ext": "https://zzdj.cc/api.php/provide/vod"
     }
   ],
   "parses": [
