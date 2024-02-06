@@ -81,16 +81,6 @@
       "changeable": 1
     },
     {
-      "key": "新6V",
-      "name": "新6V磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
-    },
-    {
       "key": "py_m1905",
       "name": "CCTV电影（PY源）",
       "type": 3,
