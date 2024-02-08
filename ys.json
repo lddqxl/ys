@@ -34,7 +34,7 @@
     { "key": "横版影院", "name": "❤️短剧
     ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] },    
 
-
+{"key":"360","name":"3️⃣360","type":3,"api":"csp_SP33","jar":"https://raw.fgit.cf/bluefriendCN/bin/main/Yoursmile.jar;md5;7B7B0D16BF03311874A7B8791510F858","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {
       "key": "YQK_spider",
       "name": "一起看源",
