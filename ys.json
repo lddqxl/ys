@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lddqxl/ys/main/0.jar;md5;A7839D8F9E7658846D8B27FD5A94C48E",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lddqxl/ys/main/0.jar;md5;F98CBA0778451CB70BBC3E09F8E58D86",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "💖周老大提醒：接口免费，每次打开记得长按主页刷新💖",
   "lives": [
@@ -16,14 +16,14 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣荐片",
+      "name": "📡豆瓣荐片",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "csp_KungFu404",
-      "name": "阿里设置",
+      "name": "💯阿里设置",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
@@ -31,22 +31,29 @@
       "changeable": 0,
       "jar": "https://d.kstore.space/download/6509/lib/alibaba.jar"
     },
-    { "key": "横版影院", "name": "❤️短剧
+ {"key":"csp_IQIYI_ZAL","name":"老大影视 | 🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MGTV_ZAL","name":"老大影视 | 🥭芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ_ZAL","name":"老大影视 | 🐧腾讯视频(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YOUKU_ZAL","name":"老大影视 | 🔻优酷(SP)","type":3,"api":"csp_YOUKU","searchable":1,"quickSearch":1,"filterable":1},   
+
+{ "key": "横版影院", "name": "❤️短剧
     ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] },    
 
-{"key":"360","name":"3️⃣360","type":3,"api":"csp_SP33","jar":"https://raw.fgit.cf/bluefriendCN/bin/main/Yoursmile.jar;md5;7B7B0D16BF03311874A7B8791510F858","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_RinHome_ZAL","name":"老大影视 | 🏆荐片(备用)","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":1},
 {
       "key": "YQK_spider",
-      "name": "一起看源",
+      "name": "📺一起看源",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+ {"key":"csp_Ikanbot_XYQ","name":"老大影视 | 👹爱看机器人(SP)","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},  
+
+ {
       "key": "玩偶哥哥",
-      "name": "玩偶",
+      "name": "👽玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -57,7 +64,7 @@
     },
     {
       "key": "csp_77",
-      "name": "七七资源",
+      "name": "🎬酷云77",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -66,7 +73,7 @@
     },
     {
       "key": "南瓜",
-      "name": "南瓜",
+      "name": "🎃南瓜",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -76,7 +83,7 @@
     },
     {
       "key": "369",
-      "name": "369",
+      "name": "️⃣369",
       "type": 3,
       "api": "csp_Cs1369",
       "playerType": 2,
@@ -86,7 +93,7 @@
     },
     {
       "key": "py_m1905",
-      "name": "CCTV电影（PY源）",
+      "name": "🖥CCTV电影",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -109,7 +116,7 @@
     },
     {
       "key": "短剧",
-      "name": "短剧资源",
+      "name": "🌀V短剧资源",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
