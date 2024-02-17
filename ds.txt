@@ -34,6 +34,31 @@
 黑龙江公共农业,http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
 黑龙江公共农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 
+
+♥央视4K频道,#genre#
+CCTV-1高清,http://mtw.so/5UqsjP
+CCTV-2高清,http://mtw.so/69sStd
+CCTV-3高清,http://mtw.so/6gZ5xU
+CCTV-4高清,http://mtw.so/6oviAZ
+CCTV-5高清,http://mtw.so/5x7cQz
+CCTV-5+高清,http://mtw.so/6pfT4t
+CCTV-6标清,http://mtw.so/5EDpF8
+CCTV-7高清,http://mtw.so/5M9CJP
+CCTV-8高清,http://mtw.so/5UqsjZ
+CCTV-9高清,http://mtw.so/61WFoG
+CCTV-10高清,http://mtw.so/69sStn
+CCTV-11高清,http://mtw.so/6gZ5ws
+CCTV-12高清,http://mtw.so/6w1vFQ
+CCTV-13高清,http://mtw.so/5x7cQJ
+CCTV-14高清,http://mtw.so/5EDpFi
+CCTV-15高清,http://mtw.so/5MUffs
+CCTV-16高清,http://mtw.so/5Uqsk9
+CCTV-17高清,http://mtw.so/61WFoQ
+CCTV-4K超高清,http://mtw.so/69sSrV
+CCTV-8K超高清,http://mtw.so/5xRPVl
+
+
+
 📻【央视频道】,#genre#
 
 CCTV-1 综合,http://36.129.204.120:880/CCD303.m3u8
@@ -433,9 +458,13 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 凛寒之地,http://43.138.170.29:35455/douyu/8945323
 
 💱【香港频道】,#genre#,
-凤凰中文,http://110.72.87.143:808/hls/83/index.m3u8
-凤凰资讯,http://110.72.87.143:808/hls/1/index.m3u8
-凤凰香港,http://110.72.87.143:808/hls/333/index.m3u8
+凤凰资讯,http://183.1.250.114:8081/hls/36/index.m3u8
+凤凰中文,http://183.1.250.114:8081/hls/37/index.m3u8
+凤凰香港,http://183.1.250.114:8081/hls/38/index.m3u8
+
+凤凰资讯,http://183.1.249.23:8081/hls/36/index.m3u8
+凤凰中文,http://183.1.249.23:8081/hls/37/index.m3u8
+凤凰香港,http://183.1.249.23:8081/hls/38/index.m3u8
 
 🗜️【CHC频道】,#genre#,
 CHC动作电影,http://36.129.204.120:880/CCN151.m3u8
