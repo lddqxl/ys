@@ -492,4 +492,5 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 Imode时尚频道,http://5de7d90fbf38b7a4ee198cd5f2aad753.livehwc3.cn:80/hplayer1.juyun.tv/camera/137932133.m3u8
 时尚,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+花花公子,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
 花花公子,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
