@@ -451,12 +451,6 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 喜剧电影,http://43.138.170.29:35455/douyu/9292492
 下饭神剧,http://43.138.170.29:35455/douyu/276200
 开心锤锤,http://43.138.170.29:35455/douyu/9018297
-凛寒之地,http://43.138.170.29:35455/douyu/8945323
-
-💱【香港频道】,#genre#,
-凤凰资讯,http://183.1.251.28:8081/hls/36/index.m3u8
-凤凰中文,http://183.1.251.28:8081/hls/37/index.m3u8
-凤凰香港,http://183.1.251.28:8081/hls/38/index.m3u8
 
 🗜️【CHC频道】,#genre#,
 CHC动作电影,http://36.129.204.120:880/CCN151.m3u8
@@ -492,5 +486,3 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 Imode时尚频道,http://5de7d90fbf38b7a4ee198cd5f2aad753.livehwc3.cn:80/hplayer1.juyun.tv/camera/137932133.m3u8
 时尚,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-花花公子,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
-花花公子,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
