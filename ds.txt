@@ -1,38 +1,38 @@
 🧧【黑龙江频道】,#genre#
 黑龙江卫视,http://39.135.133.179/wh7f454c46tw1220175647_-665595876/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8?icpid=88888888&RTS=1702122529&from=23&hms_devid=1248&online=1702122529&vqe=3
 
-新闻法制,http://39.135.133.163/wh7f454c46tw4216013546_-1934114451/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8?icpid=88888888&RTS=1702125525&from=23&hms_devid=1253&online=1702125525&vqe=3
+黑龙江新闻法制,http://39.135.133.163/wh7f454c46tw4216013546_-1934114451/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8?icpid=88888888&RTS=1702125525&from=23&hms_devid=1253&online=1702125525&vqe=3
 
-新闻法制,http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
-新闻法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-
-
-文体,http://39.135.133.181/wh7f454c46tw9620828_-1920618101/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?icpid=88888888&RTS=1702125613&from=23&hms_devid=1250&online=1702125613&vqe=3
+黑龙江新闻法制,http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
+黑龙江新闻法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 
 
-文体,http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
-文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江文体,http://39.135.133.181/wh7f454c46tw9620828_-1920618101/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?icpid=88888888&RTS=1702125613&from=23&hms_devid=1250&online=1702125613&vqe=3
 
 
-影视,http://39.135.133.145/wh7f454c46tw4130254015_-1498080411/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?icpid=88888888&RTS=1702125439&from=23&hms_devid=1237&online=1702125439&vqe=3
-
-影视,http://39.134.65.149/PLTV/88888888/224/3221225973/1.m3u8
-影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江文体,http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 
 
-都市,http://39.135.133.178/wh7f454c46tw4265014263_-1870115286/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?icpid=88888888&RTS=1702125574&from=23&hms_devid=1248&online=1702125574&vqe=3
+黑龙江影视,http://39.135.133.145/wh7f454c46tw4130254015_-1498080411/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?icpid=88888888&RTS=1702125439&from=23&hms_devid=1237&online=1702125439&vqe=3
 
-都市,http://39.134.65.151/PLTV/88888888/224/3221225969/1.m3u8
-都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-
-少儿,http://39.134.65.143/PLTV/88888888/224/3221226002/1.m3u8
-少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江影视,http://39.134.65.149/PLTV/88888888/224/3221225973/1.m3u8
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
 
-公共农业,http://39.135.133.180/wh7f454c46tw40329463_-1731698731/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?icpid=88888888&RTS=1702125644&from=23&hms_devid=1250&online=1702125644&vqe=3
+黑龙江都市,http://39.135.133.178/wh7f454c46tw4265014263_-1870115286/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?icpid=88888888&RTS=1702125574&from=23&hms_devid=1248&online=1702125574&vqe=3
 
-公共农业,http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
-公共农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江都市,http://39.134.65.151/PLTV/88888888/224/3221225969/1.m3u8
+黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+
+黑龙江少儿,http://39.134.65.143/PLTV/88888888/224/3221226002/1.m3u8
+黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+
+
+黑龙江公共农业,http://39.135.133.180/wh7f454c46tw40329463_-1731698731/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?icpid=88888888&RTS=1702125644&from=23&hms_devid=1250&online=1702125644&vqe=3
+
+黑龙江公共农业,http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
+黑龙江公共农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 
 📻【央视频道】,#genre#
 
