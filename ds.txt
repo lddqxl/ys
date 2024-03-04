@@ -36,24 +36,24 @@
 
 📻【央视频道】,#genre#
 
-CCTV-1 综合,http://36.129.204.120:880/CCD303.m3u8
-CCTV-2 财经,http://36.129.204.120:880/DX2.m3u8
-CCTV-3 综艺,http://36.129.204.120:880/DX101.m3u8
-CCTV-4 国际,http://36.129.204.120:880/DX4.m3u8
-CCTV-5 体育,http://36.129.204.120:880/DX99.m3u8
-CCTV5+ 赛事,http://36.129.204.120:880/DX5.m3u8
-CCTV-6 电影,http://36.129.204.120:880/DX98.m3u8
-CTV-7 军事,http://36.129.204.120:880/DX7.m3u8
-CCTV-8 电视,http://36.129.204.120:880/DX8.m3u8
-CCTV-9 纪录,http://36.129.204.120:880/DX9.m3u8
-CCTV10 科教,http://36.129.204.120:880/DX11.m3u8
-CCTV11 戏曲,http://36.129.204.120:880/DXX11.m3u8
-CCTV12 法制,http://36.129.204.120:880/DX12.m3u8
-CCTV13 新闻,http://36.129.204.120:880/DX92.m3u8
-CCTV14 少儿,http://36.129.204.120:880/DXCCTV14.m3u8
-CCTV15 音乐,http://36.129.204.120:880/WGCCTV15.m3u8
-CCTV16 奥运,http://36.129.204.120:880/WGCCTV16.m3u8
-CCTV17 农业,http://36.129.204.120:880/CCN16.m3u8
+CCTV-1综合,http://36.129.204.120:880/CCD303.m3u8
+CCTV-2财经,http://36.129.204.120:880/DX2.m3u8
+CCTV-3综艺,http://36.129.204.120:880/DX101.m3u8
+CCTV-4中文国际,http://36.129.204.120:880/DX4.m3u8
+CCTV-5体育,http://36.129.204.120:880/DX99.m3u8
+CCTV5+体育赛事,http://36.129.204.120:880/DX5.m3u8
+CCTV-6电影,http://36.129.204.120:880/DX98.m3u8
+CTV-7国防军事,http://36.129.204.120:880/DX7.m3u8
+CCTV-8电视剧,http://36.129.204.120:880/DX8.m3u8
+CCTV-9纪录,http://36.129.204.120:880/DX9.m3u8
+CCTV10科教,http://36.129.204.120:880/DX11.m3u8
+CCTV11戏曲,http://36.129.204.120:880/DXX11.m3u8
+CCTV12社会与法,http://36.129.204.120:880/DX12.m3u8
+CCTV13新闻,http://36.129.204.120:880/DX92.m3u8
+CCTV14少儿,http://36.129.204.120:880/DXCCTV14.m3u8
+CCTV15音乐,http://36.129.204.120:880/WGCCTV15.m3u8
+CCTV16奥林匹克,http://36.129.204.120:880/WGCCTV16.m3u8
+CCTV17农业农村,http://36.129.204.120:880/CCN16.m3u8
 第一剧场,http://36.129.204.120:880/DXDYJC.m3u8
 怀旧剧场,http://36.129.204.120:880/CCN73.m3u8
 风云剧场,http://36.129.204.120:880/CCN67.m3u8
@@ -93,24 +93,24 @@ CCTV17 农业,http://36.129.204.120:880/CCN16.m3u8
 求索记录,http://36.129.204.120:880/CCN22.m3u8
 女性时尚,http://36.129.204.120:880/dx105.m3u8
 
-CCTV-1 综合,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV-2 财经,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV-3 综艺,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV-4 国际,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV-5 体育,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV5+ 赛事,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV-6 电影,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226250/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV-7 军事,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV-8 电视,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226244/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV-9 纪录,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV10 科教,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV11 戏曲,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV12 法制,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV13 新闻,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV14 少儿,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV15 音乐,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls$动移阳贵
-CCTV16 奥运,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$路线西陕
-CCTV17 农业,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV-1综合,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV-2财经,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV-3综艺,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV-4中文国际,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV-5体育,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV5+体育 赛事,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV-6电影,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226250/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV-7国防军事,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV-8电视剧,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226244/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV-9纪录,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV10科教,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV11戏曲,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV12社会与法,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV13新闻,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV14少儿,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV15音乐,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls$动移阳贵
+CCTV16奥林匹克,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$路线西陕
+CCTV17农业农村,http://39.136.18.231:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls$动移阳贵
 
 📲【地方卫视】,#genre#
 
