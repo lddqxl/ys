@@ -453,4 +453,4 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 🔞【时尚频道】_09,#genre#
 
 Imode时尚频道,http://5de7d90fbf38b7a4ee198cd5f2aad753.livehwc3.cn:80/hplayer1.juyun.tv/camera/137932133.m3u8
-pornbox,http://23.237.100.82:8000/BRAZZERS/index.m3u8
+
