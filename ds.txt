@@ -301,4 +301,4 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 🔞【时尚频道】_09,#genre#
 
 时尚频道,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/67344f8a61cd373a39ac6b26bfb99f8c.m3u8
-
+时尚,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
