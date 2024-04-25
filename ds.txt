@@ -301,10 +301,8 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 🔞【时尚频道】_09,#genre#
 
 时尚频道,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/67344f8a61cd373a39ac6b26bfb99f8c.m3u8
-📡福康点播,#genre#
-福康直播1,http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
-福康直播2,http://mobi.kuwo.cn/tmevideo/tme9693997.mp4
-福康直播3,https://vd2.bdstatic.com/mda-mmkfweauph7ju2rr/sc/cae_h264_delogo/1643229088196056141/mda-mmkfweauph7ju2rr.mp4
+📡电影,#genre#
+
 花千骨电影版,https://v10.dious.cc/20240305/nwtl4qh7/index.m3u8
 龙之吻,http://jsmov2.a.yximgs.com/bs3/video-hls/5223331249969298656_hlsb.m3u8
 木乃伊2,http://jsmov2.a.yximgs.com/bs3/video-hls/5214886991066050464_hlsb.m3u8
@@ -922,7 +920,7 @@ TVB经典剑客与灵童,https://hxf1130.gzc.svp.tencent-cloud.com//0bc3fialgaaa
 
 
 
-国产国产连续剧猎冰,#genre#
+连续剧猎冰,#genre#
 1,https://hn.bfvvs.com/play/Ddwz6rwb/index.m3u8
 2,https://hn.bfvvs.com/play/pen0AOEb/index.m3u8
 3,https://hn.bfvvs.com/play/DdwzNrMb/index.m3u8
