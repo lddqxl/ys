@@ -269,13 +269,10 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 
 🗜️【CHC频道】,#genre#,
 
-CHC家庭影院,http://144.255.21.21:8123/udp/239.21.2.126:5002
-CHC动作电影,http://144.255.21.21:8123/udp/239.21.2.128:5002
-CHC高清电影,http://144.255.21.21:8123/udp/239.21.2.127:5002
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 
-CHC高清电影,http://gzly.hkychina.com:6001/udp/239.252.219.83:5140
-CHC家庭影院,http://gzly.hkychina.com:6001/udp/239.252.219.84:5140
-CHC动作电影,http://171.117.69.223:8085/rtp/226.0.2.94:8012
 
 剧1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 剧2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
