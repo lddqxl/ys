@@ -11,24 +11,6 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "SAO0",
-      "type": 0,
-      "url": "./libs/tv/tvlive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "./lib/tv/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
@@ -142,41 +124,6 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
-    },
-    {
-      "name": "神秘的哥哥们",
-      "type": 1,
-      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
     },
     {
       "name": "免费分享",
@@ -593,38 +540,6 @@
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-        }
-      }
-    },
-    {
-      "name": "飞云",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=o9fQb0Jvz0qZzY19Jq&url=",
-      "ext": {
-        "flag": [
-          "FYNB",
-          "mgtv",
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
         }
       }
     },
