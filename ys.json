@@ -4,9 +4,9 @@
   "warningText": "💖周老大提醒：接口免费，每次打开记得长按主页刷新💖",
   "lives": [
     {
-      "name": "肥猫",
+      "name": "老大tv直播",
       "type": 0,
-      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lddqxl/ys/main/ds.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -209,35 +209,6 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "米饭",
-      "type": 1,
-      "url": "https://api.json.icu/api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url=",
-      "ext": {
-        "flag": [
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "芒果"
         ],
         "header": {
           "User-Agent": "okhttp/4.1.0"
