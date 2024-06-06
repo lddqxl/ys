@@ -44,8 +44,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-            "aliToken": "https://gitee.com/wgq332/tvt/raw/master/token.txt",
-            "quarkCookie": "https://gitee.com/wgq332/tvt/raw/master/cookie.txt",
+            "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lddqxl/ys/main/token.json",
+            "quarkCookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lddqxl/ys/main/cookie.json",
             "from": "4k|auto|fhd",
             "siteUrl": "https://www.wogg.link/",
             "danMu": "弹"}
