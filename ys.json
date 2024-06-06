@@ -15,13 +15,6 @@
   ],
   "sites": [
     {
-      "key": "csp_DouDou",
-      "name": "📡豆瓣片单(SP)",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0
-    },
-    {
       "key": "csp_KungFu404",
       "name": "💯阿里设置",
       "type": 3,
