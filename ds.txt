@@ -196,28 +196,6 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 
 
-
-📽【NewTV频道】,#genre#
-爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-潮妈辣婆,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
-古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-惊悬疑,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-精品记录,http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-军旅剧场,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
-武博世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=d221e83311ba157b6ac238a8-170390282321421&wsIPSercert=23e3c1caa05d43a7a9d9dc2f0da60d8b
-
 💥【轮播频道】,#genre#
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 1905,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
@@ -226,22 +204,14 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 
 🗜️【CHC频道】,#genre#,
 
-CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
-CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+CHC影迷电影,http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8
+CHC家庭影院,http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
+CHC动作电影,http://111.4.254.12/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226673/index.m3u8
 
 
 剧1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 剧2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
-💽【黑莓频道】,#genre#
-黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
-黑莓动画,http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
-黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
-
-🎦【杂频道】,#genre#
-拳击频道,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 📺【国际频道】,#genre#
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
