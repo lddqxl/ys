@@ -34,6 +34,28 @@
 黑龙江公共农业,http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
 黑龙江公共农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 
+
+央视1,#genre#
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
+4k,http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+8k,https://tv.cry33.com/ys4k.php?id=8k
 央视,#genre#,https://diyp1.112114.xyz/
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -200,6 +222,14 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 1905,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
 香港电影频道,http://live-cmvideo.cmread.com/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a78e73c9d50f677a369a589aace6f489
+MTV,http://170.254.18.106/MTV/index.m3u8
+AXS TV,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+时尚,https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+电影1,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+电影2,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+电影3,http://143.244.60.30/TBS/index.m3u8
+搏击世界,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 🗜️【CHC频道】,#genre#,
