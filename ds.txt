@@ -34,6 +34,26 @@
 黑龙江公共农业,http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
 黑龙江公共农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 
+🎥中央-卫视频道,#genre#
+CCTV1,http://ott.lnott.com:880/dx01.m3u8
+CCTV2,http://ott.lnott.com:880/dx02.m3u8
+CCTV3,http://ott.lnott.com:880/dx03.m3u8
+CCTV4,http://ott.lnott.com:880/dx04.m3u8
+CCTV5,http://ott.lnott.com:880/dx05.m3u8
+CCTV5+,http://39.135.133.174:80/wh7f454c46tw4226343642_-86134690/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8?icpid=88888888&RTS=1718278907&from=23&hms_devid=1252&online=1718278907&vqe=3
+CCTV6,http://ott.lnott.com:880/dx06.m3u8
+CCTV7,http://ott.lnott.com:880/dx07.m3u8
+CCTV8,http://ott.lnott.com:880/dx08.m3u8
+CCTV9,http://ott.lnott.com:880/dx09.m3u8
+CCTV10,http://ott.lnott.com:880/dx10.m3u8
+CCTV11,http://ott.lnott.com:880/dx11.m3u8
+CCTV12,http://ott.lnott.com:880/dx12.m3u8
+CCTV13,http://ott.lnott.com:880/dx13.m3u8
+CCTV14,http://ott.lnott.com:880/dx14.m3u8
+CCTV15,http://ott.lnott.com:880/dx15.m3u8
+CCTV16,http://ott.lnott.com:880/dx16.m3u8
+CCTV17,http://ott.lnott.com:880/dx17.m3u8
+
 
 🎥电视频道,#genre#
 CCTV1,http://biaozhun114.com/tv/v6hlj.php?id=1
