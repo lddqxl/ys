@@ -523,9 +523,6 @@ CHC家庭影院,http://ott.lnott.com:880/dx93.m3u8
 
 CHC动作电影,http://ott.lnott.com:880/dx100.m3u8
 
-1,https://s.oxax.tv/-Gpwoh_Z-s7dC61Jtg_73Q/6/1718637767/index.m3u8
-
-
 剧1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 剧2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
@@ -552,7 +549,7 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 时尚频道,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/67344f8a61cd373a39ac6b26bfb99f8c.m3u8
 迈阿密,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
-
+密,https://s.oxax.tv/-Gpwoh_Z-s7dC61Jtg_73Q/6/1718637767/index.m3u8
 
 
 
