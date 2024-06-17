@@ -550,6 +550,11 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 🔞【时尚频道】_09,#genre#
 
 时尚频道,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/67344f8a61cd373a39ac6b26bfb99f8c.m3u8
+迈阿密电视台,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
+
+
+
+
 📡电影,#genre#
 
 花千骨电影版,https://v10.dious.cc/20240305/nwtl4qh7/index.m3u8
