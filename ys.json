@@ -26,7 +26,7 @@
     },
     {
       "key": "豆豆",
-      "name": "One",
+      "name": "💖豆豆",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -50,15 +50,17 @@
       }
     },
     {
-      "key": "drjs_爱看机器人2",
-      "name": "雷蒙影视 | 👹爱看机器人2(DRPY)",
+      "key": "csp_LiteApple",
+      "name": "🍎小苹果(SP)",
       "type": 3,
-      "api": "./dr_py/libs/drpy2.min.js",
-      "ext": "./EXT/JS/ikanbot2.js"
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "csp_SixV",
-      "name": "雷蒙影视 | 🧲6V电影网(SP)",
+      "name": " 🧲6V电影网(SP)",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
@@ -68,7 +70,7 @@
     },
     {
       "key": "csp_SP360",
-      "name": "雷蒙影视 | 3️⃣360(SP)",
+      "name": "3️⃣360(SP)",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -77,7 +79,7 @@
     },
     {
       "key": "csp_IQIYI_ZAL",
-      "name": "雷蒙影视 | 🥝爱奇艺(SP)",
+      "name": "🥝爱奇艺(SP)",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -86,7 +88,7 @@
     },
     {
       "key": "csp_MGTV_ZAL",
-      "name": "雷蒙影视 | 🥭芒果TV(SP)",
+      "name": "🥭芒果TV(SP)",
       "type": 3,
       "api": "csp_MGTV",
       "searchable": 1,
@@ -95,7 +97,7 @@
     },
     {
       "key": "csp_QQ_ZAL",
-      "name": "雷蒙影视 | 🐧腾讯视频(SP)",
+      "name": "🐧腾讯视频(SP)",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -104,7 +106,7 @@
     },
     {
       "key": "csp_YOUKU_ZAL",
-      "name": "雷蒙影视 | 🔻优酷(SP)",
+      "name": "🔻优酷(SP)",
       "type": 3,
       "api": "csp_YOUKU",
       "searchable": 1,
