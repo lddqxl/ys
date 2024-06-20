@@ -235,9 +235,14 @@
   ],
   "parses": [
     {
-      "name": "呕吼影视",
-      "type": 3,
+      "name": "超级并发",
+      "type": 2,
       "url": "Parallel"
+    },
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
     },
     {
       "name": "Json轮询",
@@ -245,107 +250,112 @@
       "url": "Sequence"
     },
     {
-      "name": "线路0",
-      "type": 1,
-      "url": "http://122.228.84.103:5829/qq123/?url="
-    },
-    {
       "name": "线路1",
       "type": 1,
-      "url": "http://115.231.220.36:8801/jx/tvbox/zyys.php?url="
+      "url": "https://api.huohua.vip/api/?key=xZ1ib7AmHKhjqKLhQb&url="
     },
     {
       "name": "线路2",
       "type": 1,
-      "url": "http://122.228.84.103:5829/qq/?url="
+      "url": "http://122.228.84.103:5829/qq123/?url="
     },
     {
       "name": "线路3",
       "type": 1,
-      "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url="
+      "url": "http://115.231.220.36:8801/jx/tvbox/zyys.php?url="
     },
     {
       "name": "线路4",
       "type": 1,
-      "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url="
+      "url": "http://122.228.84.103:5829/qq/?url="
     },
     {
       "name": "线路5",
       "type": 1,
-      "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+      "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url="
     },
     {
       "name": "线路6",
       "type": 1,
-      "url": "http://llyh.xn--yi7aa.top/api/?key=2b99f2b9ddeac7fcc43bc7e38d1c27c8&url="
+      "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url="
     },
     {
       "name": "线路7",
       "type": 1,
-      "url": "https://jx.xmflv.cc/?url="
+      "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
     },
     {
       "name": "线路8",
       "type": 1,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "http://llyh.xn--yi7aa.top/api/?key=2b99f2b9ddeac7fcc43bc7e38d1c27c8&url="
     },
     {
       "name": "线路9",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+      "url": "https://jx.xmflv.cc/?url="
     },
     {
       "name": "线路10",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "线路11",
       "type": 1,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
     },
     {
       "name": "线路12",
       "type": 1,
-      "url": "https://dm.xmflv.com:4433/?url="
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
     },
     {
       "name": "线路13",
       "type": 1,
-      "url": "https://jx.aidouer.net/?url="
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "name": "线路14",
       "type": 1,
-      "url": "https://www.playm3u8.cn/jiexi.php?url="
+      "url": "https://dm.xmflv.com:4433/?url="
     },
     {
       "name": "线路15",
       "type": 1,
-      "url": "https://jx.mmkv.cn/tv.php?url="
+      "url": "https://jx.aidouer.net/?url="
     },
     {
       "name": "线路16",
       "type": 1,
-      "url": "https://jx.yparse.com/index.php?url="
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
     },
     {
       "name": "线路17",
       "type": 1,
-      "url": "https://www.yemu.xyz/?url="
+      "url": "https://jx.mmkv.cn/tv.php?url="
     },
     {
       "name": "线路18",
       "type": 1,
-      "url": "http://www.jzmhtt.com/zdy/vip/?url="
+      "url": "https://jx.yparse.com/index.php?url="
     },
     {
       "name": "线路19",
       "type": 1,
-      "url": "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
+      "url": "https://www.yemu.xyz/?url="
     },
     {
       "name": "线路20",
+      "type": 1,
+      "url": "http://www.jzmhtt.com/zdy/vip/?url="
+    },
+    {
+      "name": "线路21",
+      "type": 1,
+      "url": "http://st.1855090.xyz:8827/home/api?type=ys&uid=2765369&key=dhquvwzBDIKLNRT189&url="
+    },
+    {
+      "name": "线路22",
       "type": 1,
       "url": "http://121.62.61.51:6888/api/?key=BxzJDoznSIoiPuDrRm&url="
     },
