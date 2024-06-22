@@ -112,6 +112,58 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "Alist",
+      "name": "💗小雅",
+      "type": 3,
+      "api": "http://jiandjh.zicp.net:5678/tvbox/libs/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": [
+        {
+          "name": "丫仙女",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/",
+          "search": true
+        },
+        {
+          "name": "每日更新",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/每日更新"
+        },
+        {
+          "name": "电影",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/电影"
+        },
+        {
+          "name": "电视剧",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/电视剧"
+        },
+        {
+          "name": "综艺",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/综艺"
+        },
+        {
+          "name": "纪录片",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/纪录片"
+        },
+        {
+          "name": "动漫",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/动漫"
+        },
+        {
+          "name": "儿童",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/动漫/儿童"
+        }
+      ]
     }
   ],
   "rules": [
