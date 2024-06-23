@@ -150,7 +150,7 @@
         },
         {
           "name": "纪录片",
-          "server": "http://69.161.221.160:5244/",
+          "server": "http://jiandjh.zicp.net:5678/",
           "startPage": "/纪录片"
         },
         {
@@ -309,12 +309,12 @@
     {
       "name": "线路2",
       "type": 1,
-      "url": "http://122.228.84.103:5829/qq123/?url="
+      "url": "http://115.231.220.36:8801/jx/tvbox/zyys.php?url="
     },
     {
       "name": "线路3",
       "type": 1,
-      "url": "http://115.231.220.36:8801/jx/tvbox/zyys.php?url="
+      "url": "http://122.228.84.103:5829/qq123/?url="
     },
     {
       "name": "线路4",
