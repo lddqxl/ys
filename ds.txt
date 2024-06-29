@@ -582,11 +582,11 @@ CGTN 西班牙语频道,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN 西班牙语频道,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
-🔞【时尚频道】_09,#genre#
+🔞【时尚频道】_0520,#genre#
 
 时尚频道,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/67344f8a61cd373a39ac6b26bfb99f8c.m3u8
 迈阿密,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
-1,https://s.oxax.tv/uL2Q4UewCgm5VJOTzjTXGg/6/1718902059/index.m3u8
+1,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 
 
 
