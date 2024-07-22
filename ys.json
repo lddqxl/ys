@@ -160,6 +160,81 @@
       "url": "Sequence"
     },
     {
+      "name": "解析2",
+      "type": 0,
+      "url": "http://api.wpsseo.cn/?v="
+    },
+    {
+      "name": "解析3",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "解析4",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "name": "解析5",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "解析6",
+      "type": 3,
+      "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "解析7",
+      "type": 0,
+      "url": "https://www.8090.la/8090/?url="
+    },
+    {
+      "name": "解析8",
+      "type": 0,
+      "url": "https://vip.lianfaka.com/vip/?url="
+    },
+    {
+      "name": "解析9",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "解析10",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "解析11",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "解析12",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "解析13",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
+    },
+    {
+      "name": "解析14",
+      "type": 0,
+      "url": "https://jiexi.555jiexi.net:555/player/?url="
+    },
+    {
+      "name": "解析15",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?=&url="
+    },
+    {
+      "name": "解析16",
+      "type": 0,
+      "url": "https://www.pangujiexi.com/pangu/?url="
+    },
+    {
       "name": "One解析",
       "type": 1,
       "url": "https://api.json.icu/api/?key=92eebc17b8bf5741650f4af91d511009&url=",
