@@ -24,9 +24,39 @@
       "changeable": 0,
       "jar": "https://d.kstore.space/download/6509/lib/alibaba.jar"
     },
-         { "key": "多多弹幕", "name": "💕阿里┃One", "type": 3, "api": "csp_Wobg", "jar": "https://gitee.com/q309972108/tv/raw/master/tv/jar/dongchenok.jar", "quickSearch": 1, "changeable": 1, "filterable": 1, "ext": { "token": "https://gitee.com/wgq332/tvt/raw/master/token.txt", "cookie": "https://gitee.com/q309972108/tv/raw/master/tv/ck.txt", "site": "https://tv.yydsys.top/", "danmu": true }, "timeout": 25 },  
-{"key":"csp_WoGG","name":"雷蒙影视 | 👽玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
-{
+    {
+      "key": "多多弹幕",
+      "name": "💕阿里┃One",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "https://gitee.com/q309972108/tv/raw/master/tv/jar/dongchenok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "https://gitee.com/wgq332/tvt/raw/master/token.txt",
+        "cookie": "https://gitee.com/q309972108/tv/raw/master/tv/ck.txt",
+        "site": "https://tv.yydsys.top/",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "雷蒙影视 | 👽玩偶哥哥(SP)",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },
+    {
       "key": "csp_WoGG",
       "name": "❤️阿里┃One",
       "type": 3,
@@ -1055,4 +1085,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+}
 }
