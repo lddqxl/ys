@@ -24,25 +24,23 @@
       "changeable": 0,
       "jar": "https://d.kstore.space/download/6509/lib/alibaba.jar"
     },
-   
-        {
-            "key": "玩偶弹幕",
-            "name": "弹幕｜玩偶",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "wogg": true,
-                "danmu": true
-            }
-        },
-
- {
+    {
+      "key": "玩偶弹幕",
+      "name": "弹幕｜玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "wogg": true,
+        "danmu": true
+      }
+    },
+    {
       "key": "玩偶",
       "name": "玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -161,7 +159,7 @@
       "type": 3,
       "url": "Web"
     },
-  {
+    {
       "name": "小鱼嘻嘻",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
@@ -230,11 +228,8 @@
           "YuMi-vip"
         ]
       }
-    },  
-
-
-
-{
+    },
+    {
       "name": "主线解析",
       "type": 1,
       "url": "https://json.oorl.cn/api/?key=7A8FRCUH6MbuECftbY&url=",
