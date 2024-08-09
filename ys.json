@@ -6,7 +6,7 @@
     {
       "name": "Ipv4",
       "type": 0,
-      "url": "./云星日记/Ipv4.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lddqxl/ys/main/ds.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
