@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lddqxl/ys/main/0.jar;md5;40C61554085B24DF4375B9AB5B8C0B5A",
+ "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lddqxl/ys/main/0.jar;md5;40C61554085B24DF4375B9AB5B8C0B5A",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "warningText": "💖周老大提醒：接口免费，每次打开记得长按主页刷新💖",
   "lives": [
@@ -7,24 +7,6 @@
       "name": "Ipv4",
       "type": 0,
       "url": "./云星日记/Ipv4.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "ipv6_1",
-      "type": 0,
-      "url": "./云星日记/ipv6_1.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "ipv6_2",
-      "type": 0,
-      "url": "./云星日记/ipv6_2.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "ipv6_3",
-      "type": 0,
-      "url": "./云星日记/ipv6_3.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
@@ -40,8 +22,8 @@
       "jar": "https://d.kstore.space/download/6509/lib/alibaba.jar"
     },
     {
-      "key": "云星1080",
-      "name": "☁️云星1080┃影视",
+      "key": "1080",
+      "name": "☁️1080┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -93,57 +75,124 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*"
+      ]
     },
     {
-      "key": "Alist",
-      "name": "💗小雅",
-      "type": 3,
-      "api": "http://jiandjh.zicp.net:5678/tvbox/libs/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": [
-        {
-          "name": "丫仙女",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/",
-          "search": true
-        },
-        {
-          "name": "每日更新",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/每日更新"
-        },
-        {
-          "name": "电影",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/电影"
-        },
-        {
-          "name": "电视剧",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/电视剧"
-        },
-        {
-          "name": "综艺",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/综艺"
-        },
-        {
-          "name": "纪录片",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/纪录片"
-        },
-        {
-          "name": "动漫",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/动漫"
-        },
-        {
-          "name": "儿童",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/动漫/儿童"
-        }
+      "name": "夜市",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驢",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "toutiaovod.com"
+      ]
+    },
+    {
+      "name": "喵次元139嗅探",
+      "hosts": [
+        "mcloud.139.com"
+      ],
+      "regex": [
+        "mcloud.139.com"
+      ]
+    },
+    {
+      "name": "348资源嗅探",
+      "hosts": [
+        "aliyundrive.net"
+      ],
+      "regex": [
+        "aliyundrive.net"
+      ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "磁力廣告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "更多",
+        "社區",
+        "xuu",
+        "最新",
+        "最新",
+        "直播",
+        "更新",
+        "社区",
+        "有趣",
+        "有趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
       ]
     }
   ],
@@ -252,8 +301,9 @@
     "pptv",
     "mgtv",
     "wasu",
-    "bilibili",
-    "renrenmi"
+    "renrenmi",
+    "duoduozy",
+    "bilibili"
   ],
   "ijk": [
     {
@@ -303,6 +353,11 @@
           "category": 4,
           "name": "reconnect",
           "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
         },
         {
           "category": 4,
@@ -386,6 +441,11 @@
         },
         {
           "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
         },
@@ -417,51 +477,10 @@
       ]
     }
   ],
-  "doh": [
-    {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
-      "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
-      ]
-    },
-    {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
-      "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-      ]
-    },
-    {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
-      "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
-      ]
-    },
-    {
-      "name": "DNSWatch",
-      "url": "https://resolver2.dns.watch/dns-query",
-      "ips": [
-        "84.200.69.80",
-        "84.200.70.40"
-      ]
-    },
-    {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
-      "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
-      ]
-    }
-  ],
   "ads": [
+    "static-mozai.4gtv.tv",
+    "s3t3d2y8.afcdn.net",
+    "mozai.4gtv.tv",
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
