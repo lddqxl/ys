@@ -445,36 +445,23 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 欧美大片,http://maomao.kandiantv.cn/douyu1.php?id=2793084
 贝爷影厅,http://maomao.kandiantv.cn/douyu1.php?id=252802
 译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
-斗鱼电影1,http://zzy789.xyz/douyu1.php?id=8770422
-斗鱼电影2,http://zzy789.xyz/douyu1.php?id=2436390
-斗鱼电影3,http://zzy789.xyz/douyu1.php?id=218859
-斗鱼电影4,http://zzy789.xyz/douyu1.php?id=9292492
+电影1,http://zby.xjqxz.top/live12/live.m3u8
+电影2,https://www.goodiptv.club/douyu/3637778
+电影3,https://www.goodiptv.club/douyu/2935323
+电影4,http://zby.xjqxz.top/cldy/live.m3u8
+电影5,http://zby.xjqxz.top/lljdy/live.m3u8
+电影6,http://allinone.netsite.cc/douyu/122402
+电影7,http://allinone.netsite.cc/douyu/85894
+电影8,http://allinone.netsite.cc/douyu/6566671
+电影9,https://www.goodiptv.club/douyu/434971
+电影10,http://61.221.215.25:8800/hls/43/index.m3u8
 
-🗜️【CHC频道】,#genre#,
 
 
 剧1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 剧2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
-📺【凤凰频道】,#genre#
 
-凤凰中文,http://php.jdshipin.com:8880/xsj.php?id=phtv-cn
-凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info
-凤凰香港,http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
-鳳凰衛視,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-鳳凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-
-
-
-📺【国际频道】,#genre#
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN 法语频道,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN 俄语频道,http://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN 阿拉伯语频道,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN 西班牙语频道,http://livees.cgtn.com/500e/prog_index.m3u8
-CGTN 西班牙语频道,http://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 🔞【时尚频道】_0520,#genre#
 
