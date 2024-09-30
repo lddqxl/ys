@@ -448,6 +448,7 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 1905电影,http://ygbh.live/1905.php?id=1905a
 
 
+
 电影1,http://zby.xjqxz.top/live12/live.m3u8
 电影2,http://zby.xjqxz.top/cldy/live.m3u8
 电影3,http://zby.xjqxz.top/lljdy/live.m3u8
@@ -504,18 +505,25 @@ CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765
 剧2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 
 CHC频道,#genre#
-影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
-家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
+CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy#http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy#http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
+CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy#http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
+
+CIBN频道,#genre#
+CIBN感情剧场,http://zby.xjqxz.top/zh09/live.m3u8
+CIBN动作影院,http://zby.xjqxz.top/zh04/live.m3u8
+CIBN经典剧场,http://zby.xjqxz.top/gzdsj2/live.m3u8
+CIBN精品影院,http://zby.xjqxz.top/zh13/live.m3u8
+CIBN流金岁月,http://zby.xjqxz.top/hkdy1/live.m3u8
+CIBN院线大片,http://zby.xjqxz.top/zh06/live.m3u8
+
+
 
 
 
 
 
 🔞【时尚频道】_0520,#genre#
-
-时尚频道,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/67344f8a61cd373a39ac6b26bfb99f8c.m3u8
-迈阿密,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
 
 
 
